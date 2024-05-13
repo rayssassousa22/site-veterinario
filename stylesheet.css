@@ -29,8 +29,7 @@ body {
 .header{
     background-color: rgb(5, 108, 108);
     max-height: 200x;
-    display: flex;
-    justify-content: center;
+    max-width: fit-content;
 }
 
 .content{
