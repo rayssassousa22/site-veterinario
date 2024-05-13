@@ -13,3 +13,9 @@ body {
     margin: 0 auto;
     background-color: aquamarine;
 }
+
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
