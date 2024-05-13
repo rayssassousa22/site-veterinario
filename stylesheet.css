@@ -42,8 +42,7 @@ body {
 }
 
 .image{
-    background-color: rgb(5, 108, 108);
-    max-height: 250px;
+    max-height: 350px;
     display: flex;
     justify-content: center;
 }
