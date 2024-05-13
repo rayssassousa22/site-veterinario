@@ -14,7 +14,18 @@ body {
 }
 
 .menu {
-    padding: 10px 20px 50px;
+    padding: 10px 20px 35px;
     width: 20%;
     background-color: aquamarine;
+}
+
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+
+.header{
+    background-color: rgb(5, 108, 108);
+    min-height: 150px;
 }
