@@ -28,8 +28,8 @@ body {
 
 .header{
     background-color: rgb(5, 108, 108);
-    max-height: fit-content;
-    max-width: fit-content;
+    max-height: 250px;
+    max-width: 100px;
     display: flex;
 }
 
