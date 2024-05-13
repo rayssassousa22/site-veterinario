@@ -29,6 +29,7 @@ body {
 .header{
     background-color: rgb(5, 108, 108);
     max-height: 300px;
+    max-width: 100px;
     display: flex;
 }
 
