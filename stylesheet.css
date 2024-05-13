@@ -39,7 +39,7 @@ body {
 
 .footer {
     min-height: 200px;
-    justify-content: right;
+    padding: 50px 0px 50px 25px;
 }
 
 .image{
