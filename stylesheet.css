@@ -27,5 +27,5 @@ body {
 
 .header{
     background-color: rgb(5, 108, 108);
-    min-height: 150px;
+    max-height: 100px;
 }
