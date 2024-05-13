@@ -14,7 +14,7 @@ body {
     background-color: aquamarine;
 }
 
-.main {
+.menu {
     display: flex;
     flex-flow: column wrap;
     width: 70px;
