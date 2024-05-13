@@ -31,3 +31,8 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.content{
+    min-height: 300px;
+    padding: 50px 0px 50px;
+}
