@@ -16,6 +16,6 @@ body {
 
 .main {
     display: flex;
-    flex-flow: column;
+    flex-flow: column wrap;
     width: 100%;
 }
