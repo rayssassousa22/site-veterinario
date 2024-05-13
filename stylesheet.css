@@ -30,6 +30,7 @@ body {
     background-color: rgb(5, 108, 108);
     max-height: 200px;
     max-width: 100px;
+    display: flex;
 }
 
 .content{
