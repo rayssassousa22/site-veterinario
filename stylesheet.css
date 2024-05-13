@@ -57,3 +57,23 @@ h1{
     font-size: 35px;
     color:rgb(100, 18, 16);
 }
+
+table {
+    -webkit-box-shadow: 14px 26px 26px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 14px 26px 26px 5px rgba(0,0,0,0.75);
+    box-shadow: 14px 26px 26px 5px rgba(0,0,0,0.75);
+}
+
+table tbody tr:nth-child(even){
+    background-color: cadetblue;
+}
+
+
+table thead th{
+    background-color: black;
+    color: white;
+}
+
+table tbody td {
+    background-color: bisque;
+}
