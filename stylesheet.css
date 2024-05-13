@@ -34,5 +34,16 @@ body {
 
 .content{
     min-height: 300px;
-    padding: 50px 0px 50px;
+    padding: 50px 0px 50px 25px;
+}
+
+.footer {
+    min-height: 200px;
+}
+
+.image{
+    background-color: rgb(5, 108, 108);
+    max-height: 250px;
+    display: flex;
+    justify-content: center;
 }
