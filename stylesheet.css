@@ -39,6 +39,7 @@ body {
 
 .footer {
     min-height: 200px;
+    justify-content: right;
 }
 
 .image{
