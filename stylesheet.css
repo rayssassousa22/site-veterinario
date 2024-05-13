@@ -15,7 +15,6 @@ body {
 }
 
 .menu {
-    display: flex;
-    flex-flow: column wrap;
+    padding: 10px 20px 0px;
     width: 70px;
 }
