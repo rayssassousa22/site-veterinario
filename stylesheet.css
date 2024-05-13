@@ -82,3 +82,7 @@ table thead th{
 table tbody td {
     background-color: bisque;
 }
+
+form {
+    font-size: 25px;
+}
